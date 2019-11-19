@@ -11,15 +11,15 @@ ul {
 }
 
 li:hover {
-    background-color: blue;
+    background-color: black;
 }
 
 header ul {
-    background-color: green;
+    background-color: grey;
 }
 
 footer ul {
-    background-color: red;
+    background-color: aquamarine;
 }
 
 footer ul li {
