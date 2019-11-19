@@ -54,5 +54,9 @@ img>ul{
     color: blueviolet;
     list-style-type: circle;
 }
+
+h3>p{
+    font-family: monospace;
+}
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
