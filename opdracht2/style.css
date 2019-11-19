@@ -67,5 +67,9 @@ div>h1{
     font-size: 50px;
     background-color: green;
 }
+
+header>nav>ul,footer>nav>ul{
+    list-style-type: none;
+}
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
