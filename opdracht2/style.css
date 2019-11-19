@@ -58,5 +58,14 @@ img>ul{
 h3>p{
     font-family: monospace;
 }
+
+ul>li{
+    border: dashed black 1px;
+}
+
+div>h1{
+    font-size: 50px;
+    background-color: green;
+}
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
