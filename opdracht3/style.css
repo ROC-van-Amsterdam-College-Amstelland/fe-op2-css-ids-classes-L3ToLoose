@@ -13,3 +13,7 @@ ul {
 li:hover {
     background-color: blue;
 }
+
+header ul {
+    background-color: green;
+}
