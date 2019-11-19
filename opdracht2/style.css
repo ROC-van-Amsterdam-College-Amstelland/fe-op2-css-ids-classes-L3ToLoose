@@ -118,5 +118,14 @@ header > img{
 main>img{
     width: 400px;
 }
+
+html, body{
+    height: 100%;
+}
+ 
+body{
+    display: flex;
+    flex-direction: column;
+}
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
