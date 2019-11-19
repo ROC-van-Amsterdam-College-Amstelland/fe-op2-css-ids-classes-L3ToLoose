@@ -1,2 +1,9 @@
+footer{
+    color: grey;
+}
 
-
+ul{
+    background-color: grey;
+    justify-content: center;
+    flex-direction: column;
+}
