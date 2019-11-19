@@ -21,3 +21,11 @@ header ul {
 footer ul {
     background-color: red;
 }
+
+footer ul li {
+    display: flex;
+    width: 150px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
