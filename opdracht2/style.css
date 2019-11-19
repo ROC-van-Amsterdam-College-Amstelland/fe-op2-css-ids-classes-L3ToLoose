@@ -85,5 +85,9 @@ nav{
 header>nav, nav>ul{
     display: flex;
 }
+
+footer>img{
+    border: solid black 1px;
+}
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
