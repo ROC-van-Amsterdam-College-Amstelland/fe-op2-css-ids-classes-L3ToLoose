@@ -81,5 +81,9 @@ nav{
     padding-left: 20px;
     
 }
+
+header>nav, nav>ul{
+    display: flex;
+}
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
