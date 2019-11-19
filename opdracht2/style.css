@@ -11,5 +11,26 @@ body{
 img{
     width: 200px;
 }
+
+h1{
+    font-size: 80px;
+}
+
+body{
+    color: blue;
+}
+
+header, main, footer{
+    widows: 100%;
+}
+
+header, footer{
+    height: 20%;
+}
+
+main{
+    height: 80%;
+}
+
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
