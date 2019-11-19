@@ -71,5 +71,10 @@ div>h1{
 header>nav>ul,footer>nav>ul{
     list-style-type: none;
 }
+
+}
+header>nav>ul>li>a{
+    text-decoration: none;
+}
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
