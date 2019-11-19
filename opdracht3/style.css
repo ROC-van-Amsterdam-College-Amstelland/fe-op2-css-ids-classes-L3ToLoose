@@ -1,9 +1,11 @@
-footer{
-    color: grey;
+*{
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
 }
 
-ul{
-    background-color: grey;
-    justify-content: center;
-    flex-direction: column;
+ul {
+    display: flex;
+    flex-direction: row;
 }
